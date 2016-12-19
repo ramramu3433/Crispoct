@@ -1,2 +1,2 @@
 # Crispoct
-Enjoy new methodology of learning
+Enjoy new learning methodology
